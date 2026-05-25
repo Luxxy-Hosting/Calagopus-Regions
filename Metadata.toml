@@ -1,0 +1,3 @@
+package_name = "dev.luxxy.region"
+name = "Luxxy Region"
+panel_version = ">=1.0.0"
